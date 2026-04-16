@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background-color: #000014;
+    color: white;
+}
+
+header {
+    background-color: #111;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+   color: cyan; 
+    margin: 10px;
+    text-decoration: none;
+}
+
+.contact {
+    padding: 30px;
+    text-align: center;
+    list-style-position: inside;
+}
+
+
+footer{
+     background-color: #111;
+    padding: 25px;
+    text-align: center;
+
+}
